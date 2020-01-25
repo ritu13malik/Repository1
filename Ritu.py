@@ -1,0 +1,2 @@
+# RituRepository
+print("Hello World")
